@@ -1,4 +1,3 @@
 hello saya di devel
 
 Saya Colaborator
-mecoba push dari fork
