@@ -2,4 +2,4 @@ hello saya di devel
 
 Saya Colaborator
 
-squash 2
+squash 23
